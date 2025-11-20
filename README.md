@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Email-Spam-Detection-Using-NLP
-=======
 # 🛡️ Email & SMS Spam Detection Using NLP
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
@@ -560,5 +557,3 @@ For questions or support, please open an issue on GitHub.
 **Made with ❤️ and Python | © 2025 Pratyush Srivastava**
 
 </div>
-
->>>>>>> 64048f2 (Updated Code)
