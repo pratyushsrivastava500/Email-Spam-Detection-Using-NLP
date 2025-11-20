@@ -5,7 +5,7 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.29%2B-red)
 ![NLTK](https://img.shields.io/badge/NLTK-3.8%2B-green)
 
-> A machine learning web application that detects spam in emails and SMS messages using Natural Language Processing and Naive Bayes classification. Built with clean modular architecture and Streamlit framework.
+> A machine learning web application that detects spam in emails and SMS messages using Natural Language Processing and Naive Bayes classification. Built with clean modular architecture and Streamlit framework
 
 
 ## 📋 Overview
